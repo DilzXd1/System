@@ -1,4 +1,4 @@
 {
-"message": "System Is Stoped!",
-"status": "on"
+"message": "The system is currently down because this script will be updated to a new version. Please wait a few hours and try again. The bot will update automatically!",
+"status": "false"
 }
